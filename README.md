@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with Python AI [Voice Assistant](https://github.com/NurulloSalaydinov/VoiceAssistant)
 
-- 💬 Ask me about Python | Vue **Python | Vue**
+- 💬 Ask me about Python | Vue **Django | **Django Rest Framework
 
 - 📫 Let's Talk **salaydinovnurullo@gmail.com**
 
